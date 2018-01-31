@@ -32,6 +32,12 @@ p{
 	background-color: #ccac86;
 }
 
+#text-box{
+	background-color: #ccac86;
+	padding: 10px;
+	margin: 15px;
+}
+
 #panel{
 	
 	text-align: center; 
